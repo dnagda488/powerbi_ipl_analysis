@@ -8,3 +8,4 @@ Utilized data transformation techniques to clean and structure raw IPL data.
 Implemented slicers, filters, and drill-through options for a customized user experience.
 Demonstrated strong data storytelling skills by presenting actionable insights.
 Enhanced data-driven decision-making processes for IPL enthusiasts and stakeholders
+![image](https://github.com/dnagda488/powerbi_ipl_analysis/assets/146118931/b5a2fb4a-3683-432f-ad2f-0e9b36b85ff2)
